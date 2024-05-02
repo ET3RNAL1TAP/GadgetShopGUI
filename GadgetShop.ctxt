@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GadgetShop
+comment1.params=
+comment1.target=GadgetShop()
+comment2.params=field
+comment2.target=java.lang.String\ getInputText(javax.swing.JTextField)
+comment3.params=field
+comment3.target=double\ getInputDouble(javax.swing.JTextField)
+comment4.params=field
+comment4.target=int\ getInputInt(javax.swing.JTextField)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6
